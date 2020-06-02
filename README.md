@@ -1,4 +1,4 @@
 # Analog_Clock
 
-![](clock_front.gif)
+![](Digital_Clock.gif)
 
